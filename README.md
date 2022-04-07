@@ -20,3 +20,5 @@ A file containing essential docker commands
 - docker ps
 #### Remove a container
 - docker rm 'containerId'
+#### Start a stopped container
+- docker rm 'containerId'
