@@ -1,5 +1,11 @@
 # Docker-cheat-sheet
 A file containing essential docker commands
 
-### List all docker images
+### Images command
+#### List all docker images
 -docker images
+
+
+### Container command
+#### List all docker containers
+- docker ps -a
